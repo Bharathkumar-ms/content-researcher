@@ -1,4 +1,6 @@
-python-dotenv
-streamlit
 crewai
 crewai-tools
+python-dotenv
+streamlit
+pysqlite3-binary
+
